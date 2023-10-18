@@ -1,1 +1,2 @@
 This is git file 2 . txt
+with changed edited 1
